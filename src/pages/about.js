@@ -7,18 +7,19 @@ function About() {
 
       <p>
         Hello! My name is Pascal, I'm a JavaScript Developer and Technical Writer. I enjoy writing codes and technical articles on the internet. 
-        My interest lies in web development which started back in 2019.
+        My interest lies in web development which started back in 2019. 
       </p>
 
       <p>
-        Fast-forward to today, and I’ve had the privilege of working at an advertising agency, a start-up, a huge 
-        corporation, and a student-led design studio. My main focus these days is building accessible, inclusive products 
-        and digital experiences at Upstatement for a variety of clients.
+        I love meeting people from different cultural background. I am great with team works and collaboration. 
+        I love art and photography, I guess in an alternate universe, I would probably be into Art 🤔. 
+        I really love animes and movies; sci-fi, adventure and mystical. I love writing codes, taking walks, photography 
+        (I hope to be a photographer some day) Oh yes, I love cooking 😁
       </p>
 
       <p>
-        I also recently launched a course that covers everything you need to build a web app with the Spotify API 
-        using Node & React.
+        I am currently open to software development and technical writing gigs. If there is any opening in your team and you 
+        would love me to be a part of it, kindly contact me, let's chat.
       </p>
 
       <h3>Skills</h3>
