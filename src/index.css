@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  background-color: #020c1b;
+  color: white;
+}
+
+.app-container{
+  height: 100vh;
+}
+
+nav{
+  padding: 25px 12px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.096);
+  background-color: #020c1b;
+  color: white;
+}
+
+nav h2{
+  color: orange;
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+nav ul{
+  margin-left: 130px;
+  padding-top: 10px;
+}
+
+nav li{
+  margin: 0px 15px;
+  cursor: pointer;
+}
+
+nav li:hover{
+  color: orange;
+}
+
+nav li:active{
+  border: 2px solid white;
+  padding: 5px;
+}
+
+.navbar-toggler-icon{
+  color: white;
+}
+
+nav button{
+  color: white;
+}
+
+.hireMe{
+  padding: 9px;
+  color: white;
+  background-color: orange;
+  border: none;
+  border-radius: 20px;
+}
+
+
+.homepage{
+  margin-top: 15%;
+  max-width: 880px;
+}
+
+.homepage .title{
+  color: orange;
+}
+
+.homepage a{
+  color: orange;
+}
+
+.contact-page{
+  text-align: center;
+  margin-top: 15%;
+}
+
+.contact-page button{
+  border: 1px solid orange;
+  background-color: transparent;
+  color: orange;
+  border-radius: 10px;
+  padding: 8px 15px;
+}
+
+.contact-page form{
+  max-width: 500px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.social-icons i{
+  color: white;
+  font-size: 40px;
+  padding: 0px 8px;
+}
+
+.about-page{
+  margin-top: 15%;
+}
+
+.about-page p{
+  color: grey;
+}
+
+.about-page li{
+  color: grey;
+}
+
+.projects-page{
+  margin-top: 15%;
+}
+
+.blog-page{
+  margin-top: 15%;
+}
+
+.blog-page .card{
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
+.card{
+  color: white;
+  margin-bottom: 30px;
+  background-color: transparent;
+  border-bottom: 1px solid grey;
+}
+
+#projects h6{
+  color: rgb(2, 2, 49);
+  margin-top: 10px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.336);
+  width: fit-content;
+}
+
+@media screen and (max-width: 960px) {
+  .homepage{
+    margin-top: 20%;
+  }
+  nav ul{
+    margin-left: 13px;
+    padding-top: 10px;
+  }
+  nav li:nth-child(even){
+    background-color: #011636;
+  }
+}
