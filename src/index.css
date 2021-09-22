@@ -136,7 +136,16 @@ nav button{
 
 @media screen and (max-width: 960px) {
   .homepage{
-    margin-top: 20%;
+    margin-top: 24%;
+  }
+  .projects-page{
+    margin-top: 24%;
+  }
+  .blog-page{
+    margin-top: 24%;
+  }
+  .about-page{
+    margin-top: 24%;
   }
   nav ul{
     margin-left: 13px;
