@@ -5,10 +5,17 @@ import loremfoods from '../images/loremfoods.png'
 import mojin from '../images/mojin.png'
 import swapii from '../images/swapii.png'
 import todo from '../images/todo-app.png'
+import banner_g from '../images/banner-g.png'
 
 function Projects() {
 
   const _projects = [
+    {
+      pic: banner_g,
+      title: 'Banner Generator',
+      desc: 'An article banner generator built with React. Using Auth0 for user authentication',
+      url: 'https://khal-bg.netlify.app'
+    },
     {
       pic: todo,
       title: 'Todo App',
