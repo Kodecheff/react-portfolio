@@ -10,12 +10,12 @@ import banner_g from '../images/banner-g.png'
 function Projects() {
 
   const _projects = [
-    {
-      pic: banner_g,
-      title: 'Banner Generator',
-      desc: 'An article banner generator built with React. Using Auth0 for user authentication',
-      url: 'https://khal-bg.netlify.app'
-    },
+    // {
+    //   pic: banner_g,
+    //   title: 'Banner Generator',
+    //   desc: 'An article banner generator built with React. Using Auth0 for user authentication',
+    //   url: 'https://khal-bg.netlify.app'
+    // },
     {
       pic: todo,
       title: 'Todo App',
@@ -30,7 +30,7 @@ function Projects() {
     },
     {
       pic: swapii,
-      title: 'Todo App',
+      title: 'Swapi',
       desc: 'An app that fetches data from star wars API',
       url: 'https://swapii.netlify.app'
     },

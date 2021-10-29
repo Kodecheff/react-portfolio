@@ -17,8 +17,7 @@ function Home() {
       <h3>Writing ✍️</h3>
       <p>
         I occasionally writing technical articles on <a href="https://kodecheff.hashnode.dev">Hashnode</a>, 
-        which is a way I give back to the community. I am also a seasoned author at 
-        <a href="https://a11yproject.com">a11yproject.com</a> where I research and document about web accessibility.
+        which is a way I give back to the community. I am also a guest author at <a href="https://logrocket.com">Logrocket</a>.
       </p>
     </div>
   )

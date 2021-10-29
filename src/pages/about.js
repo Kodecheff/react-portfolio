@@ -7,12 +7,12 @@ function About() {
 
       <p>
         Hello! My name is Pascal, I'm a JavaScript Developer and Technical Writer. I enjoy writing codes and technical articles on the internet. 
-        My interest lies in web development which started back in 2019. 
+        My interest lies in web3.0, blockchain and developer advocacy (which I'm looking forward to transition into). 
       </p>
 
       <p>
         I love meeting people from different cultural background. I am great with team works and collaboration. 
-        I love art and photography, I guess in an alternate universe, I would probably be into Art 🤔. 
+        I love art, I guess in an alternate universe, I would probably be into Art 🤔. 
         I really love animes and movies; sci-fi, adventure and mystical. I love writing codes, taking walks, photography 
         (I hope to be a photographer some day) Oh yes, I love cooking 😁
       </p>
